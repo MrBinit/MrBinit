@@ -2,7 +2,7 @@
 
 ### Aspiring AI Engineer
 
-Welcome to my GitHub profile! I'm passionate about machine learning and data science, with expertise in various technologies and tools. Here's what I bring to the table:
+Welcome to my GitHub profile! I'm passionate about Machine learning and Data science, with expertise in various technologies and tools. Here's what I bring to the table:
 
 ## 🔧 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
