@@ -2,7 +2,7 @@
 
 # Hi there! I'm Binit Sapkota 👋
 
-### Aspiring AI Engineer
+### AI Engineer
 
 Welcome to my GitHub profile! I'm passionate about Machine learning and Data science, with expertise in various technologies and tools. Here's what I bring to the table:
 
