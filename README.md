@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm passionate about Machine learning and Data sci
 - 🐍 **Python Frameworks**: Flask, FastAPI
 
 ## 🌱 Currently Learning
-- 🚀 **Large Language Models (LLM)**
-
+- 🚀 **History of Nepal chatbot**
+- 🚀 **Translation model for romanized Nepali**
 ## 👯 Looking to Collaborate On
 - 🤝 Projects related to **Natural Language Processing (NLP)** and **Large Language Models (LLM)**
 
