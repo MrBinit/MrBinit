@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm passionate about Machine learning and Data sci
 - 💡 **Deep Learning**: PyTorch, TensorFlow
 - 📚 **Natural Language Processing (NLP)**, **Computer Vision (CV)**, **Large Language Models (LLM)**
 - 🤖 **Machine Learning**: Scikit-Learn
-  - *Skills*: Classification, Regression, Clustering, Dimensionality Reduction, Data Mining
+  - *Skills*: Classification, Regression, Clustering, Graph Neural Networks
 - 🛠️ **Big Data Processing**: PySpark
 - 🧮 **Mathematics Knowledge**: Statistics, Linear Algebra, Calculus
-- 📊 **Databases**: MySQL, NoSQL
+- 📊 **Databases**: POSTGRES SQL, Knowledge Graph(Neo4j), Vector database (qdrant)
 - 🧠 **Data Structures and Algorithm**: Python, C++, C
 - 🛠️ **Software Development Tools**: Linux, Docker, Git, GitHub, AWS, Databricks, Postman, Pip
 - 📈 **Data Analysis and Visualization**: Tableau, Matplotlib, Seaborn, Plotly
